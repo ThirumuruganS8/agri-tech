@@ -1,0 +1,26 @@
+{
+  "name": "remedy-template",
+  "version": "1.0.0",
+  "description": "Simple Open Source Landing Page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffbredenkamp/remedy-template.git"
+  },
+  "author": "Jeff Bredenkamp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeffbredenkamp/remedy-template/issues"
+  },
+  "homepage": "https://github.com/jeffbredenkamp/remedy-template#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-dart-sass": "^1.0.2",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.54.3"
+  }
+}
